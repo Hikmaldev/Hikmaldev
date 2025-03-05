@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Hikmal Ananta Putra!
 
-<!--
-**Hikmal-dept/Hikmal-dept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer & Information Systems Enthusiast**  
+🚀 Passionate about web development, databases, and AI  
+🔧 Currently working on **inventory & procurement management systems**  
+📚 Studying **Information Systems** with a focus on **automotive & manufacturing**  
 
-Here are some ideas to get you started:
+## 🔨 Tech Stack
+- **Languages:** PHP, JavaScript, Python  
+- **Frameworks:** Laravel, React, TensorFlow  
+- **Databases:** MySQL, MariaDB, PostgreSQL  
+- **Tools:** VSCode, DBeaver, Jupyter Notebook, Laragon  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!
+📧 Email: [hikmal636@gmail.com]  
+🌐 GitHub: [github.com/Hikmal-dept](https://github.com/Hikmal-dept)  
