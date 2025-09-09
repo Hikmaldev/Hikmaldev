@@ -13,4 +13,4 @@
 
 ## 📫 Let's Connect!
 📧 Email: [hikmal636@gmail.com]  
-🌐 GitHub: [github.com/Hikmal-dept](https://github.com/Hikmaldev)  
+🌐 GitHub: [github.com/Hikmaldev](https://github.com/Hikmaldev)  
