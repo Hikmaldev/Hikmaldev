@@ -7,8 +7,8 @@
 
 ## 🔨 Tech Stack
 - **Languages:** PHP, JavaScript, Python  
-- **Frameworks:** Laravel, React, TensorFlow  
-- **Databases:** MySQL, MariaDB, PostgreSQL  
+- **Frameworks:** Laravel, React  
+- **Databases:** MySQL, PostgreSQL  
 - **Tools:** VSCode, DBeaver, Jupyter Notebook, Laragon  
 
 ## 📫 Let's Connect!
