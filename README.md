@@ -92,7 +92,7 @@ A multi-warehouse inventory system for manufacturing SMEs, designed to replace s
 
 **ASP.NET Core Web API · C# · Angular · TypeScript · Entity Framework Core · PostgreSQL · Docker**
 
-### [Clearpath — Report Automation Tool](https://github.com/Hikmaldev/report-automation-tool)
+### [Clearpath — Report Automation Tool](https://github.com/Hikmaldev/report-automation-tool) · [Live demo](https://report-automation-tool-h7wxwtbhnuxthwcujqwpoz.streamlit.app)
 
 A data-processing tool that turns raw Excel/CSV exports into clean, validated, consolidated reports with charts, flagged-row review, and downloadable outputs.
 
@@ -110,11 +110,11 @@ A community dues platform with resident status management, monthly contribution 
 
 **Next.js · TypeScript · Tailwind CSS · PostgreSQL · Zod**
 
-### Operational Monitoring & Evaluation Systems
+### Operational Monitoring & Evaluation Systems  · [Live demo](https://portal.antralabs.my.id/)
 
-During my internship at **PT Wahanaartha Ritelindo**, I contributed to modules for reporting, check sheets, and supervision—helping digitize recurring operational evaluations across multiple branches.
+During my internship at **PT Wahanaartha Ritelindo**, I independently designed and built three modules: Reporting, Check Sheet, and Supervision. The system is used by 39 branches and more than 400 users. It replaced manual report consolidation with automated recaps.
 
-**Laravel · PHP · MySQL · Bootstrap · JavaScript · RESTful APIs**
+**Laravel · PHP · MySQL · Bootstrap · JavaScript · JQuery/AJAX**
 
 ## Experience
 
